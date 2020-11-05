@@ -15,6 +15,10 @@ Options Description
 -o : Print only the matched parts of a matching line,  
 with each such part on a separate output line.
 
+#### Video Tutorial: Linux/Mac Terminal Tutorial: The Grep Command - Search Files and Directories for Patterns of Text
+
+https://www.youtube.com/watch?v=VGgTmxXp7xQ
+
 ## Print all lines containing specific characters
 
 #### Syntax
