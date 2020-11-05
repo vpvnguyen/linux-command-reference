@@ -17,6 +17,12 @@ with each such part on a separate output line.
 
 ## Print all lines containing specific characters
 
+```
+grep -i "<string>" <filename>
+```
+
+#### file
+
 Cat is smaller than elephant  
 Elephant is larger than cat  
 Cats are cute!  
@@ -24,9 +30,13 @@ Elephants are very strong
 Cat and elephants live in different environments  
 cats are friendly
 
+#### command
+
 ```
 grep -i "cat" file | grep -i "elephant"
 ```
+
+#### output
 
 Cat is smaller than elephant  
 Elephant is larger than cat  
