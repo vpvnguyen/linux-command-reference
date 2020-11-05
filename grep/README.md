@@ -17,6 +17,8 @@ with each such part on a separate output line.
 
 ## Print all lines containing specific characters
 
+#### Syntax
+
 ```
 grep -i "<string>" <filename>
 ```
